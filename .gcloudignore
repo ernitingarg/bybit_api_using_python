@@ -1,0 +1,7 @@
+.gcloudignore
+.git
+.gitignore
+*.md
+test/*
+*.pyc
+.pytest_cache/*
