@@ -1,10 +1,6 @@
-# bybit-exchange-api-functions
-
-This repository aims to communicate with external apis.
-
 ## Overview
 
-The aim of this repository is to interact with external apis (eg: FTX, Bybit) to book orders (spot,future etc) and get market price.
+The aim of this repository is to interact with Bybit exchange to book orders (spot,future etc) and get market price.
 
 ## Cloud functions
 
